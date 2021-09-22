@@ -1,0 +1,35 @@
+[2021-08-16 22:26:29,561][utils.py][line:482][INFO] loading Word2Vec object from ./embedding/w2v.model
+[2021-08-16 22:26:29,573][utils.py][line:516][INFO] loading wv recursively from ./embedding/w2v.model.wv.* with mmap=None
+[2021-08-16 22:26:29,573][utils.py][line:554][INFO] setting ignored attribute cum_table to None
+[2021-08-16 22:26:29,594][utils.py][line:448][INFO] Word2Vec lifecycle event {'fname': './embedding/w2v.model', 'datetime': '2021-08-16T22:26:29.594404', 'gensim': '4.0.1', 'python': '3.7.10 (default, Jun  4 2021, 14:48:32) \n[GCC 7.5.0]', 'platform': 'Linux-5.4.0-66-generic-x86_64-with-debian-bullseye-sid', 'event': 'loaded'}
+[2021-08-16 22:26:29,594][utils.py][line:482][INFO] loading Word2Vec object from ./embedding/fasttext.model
+[2021-08-16 22:26:29,596][utils.py][line:516][INFO] loading wv recursively from ./embedding/fasttext.model.wv.* with mmap=None
+[2021-08-16 22:26:29,597][utils.py][line:521][INFO] loading vectors_ngrams from ./embedding/fasttext.model.wv.vectors_ngrams.npy with mmap=None
+[2021-08-16 22:26:29,806][utils.py][line:554][INFO] setting ignored attribute vectors to None
+[2021-08-16 22:26:29,806][utils.py][line:554][INFO] setting ignored attribute buckets_word to None
+[2021-08-16 22:26:29,878][utils.py][line:554][INFO] setting ignored attribute cum_table to None
+[2021-08-16 22:26:29,899][utils.py][line:448][INFO] FastText lifecycle event {'fname': './embedding/fasttext.model', 'datetime': '2021-08-16T22:26:29.899724', 'gensim': '4.0.1', 'python': '3.7.10 (default, Jun  4 2021, 14:48:32) \n[GCC 7.5.0]', 'platform': 'Linux-5.4.0-66-generic-x86_64-with-debian-bullseye-sid', 'event': 'loaded'}
+[2021-08-16 22:27:00,125][1494034297.py][line:48][INFO] Epoch:[0]	 mlogloss=0.90180	 auc=0.90709	 log_loss=1.68805	
+[2021-08-16 22:27:00,712][utils.py][line:482][INFO] loading Word2Vec object from ./embedding/w2v.model
+[2021-08-16 22:27:00,724][utils.py][line:516][INFO] loading wv recursively from ./embedding/w2v.model.wv.* with mmap=None
+[2021-08-16 22:27:00,724][utils.py][line:554][INFO] setting ignored attribute cum_table to None
+[2021-08-16 22:27:00,745][utils.py][line:448][INFO] Word2Vec lifecycle event {'fname': './embedding/w2v.model', 'datetime': '2021-08-16T22:27:00.745683', 'gensim': '4.0.1', 'python': '3.7.10 (default, Jun  4 2021, 14:48:32) \n[GCC 7.5.0]', 'platform': 'Linux-5.4.0-66-generic-x86_64-with-debian-bullseye-sid', 'event': 'loaded'}
+[2021-08-16 22:27:00,745][utils.py][line:482][INFO] loading Word2Vec object from ./embedding/fasttext.model
+[2021-08-16 22:27:00,747][utils.py][line:516][INFO] loading wv recursively from ./embedding/fasttext.model.wv.* with mmap=None
+[2021-08-16 22:27:00,748][utils.py][line:521][INFO] loading vectors_ngrams from ./embedding/fasttext.model.wv.vectors_ngrams.npy with mmap=None
+[2021-08-16 22:27:00,959][utils.py][line:554][INFO] setting ignored attribute vectors to None
+[2021-08-16 22:27:00,960][utils.py][line:554][INFO] setting ignored attribute buckets_word to None
+[2021-08-16 22:27:01,032][utils.py][line:554][INFO] setting ignored attribute cum_table to None
+[2021-08-16 22:27:01,054][utils.py][line:448][INFO] FastText lifecycle event {'fname': './embedding/fasttext.model', 'datetime': '2021-08-16T22:27:01.054081', 'gensim': '4.0.1', 'python': '3.7.10 (default, Jun  4 2021, 14:48:32) \n[GCC 7.5.0]', 'platform': 'Linux-5.4.0-66-generic-x86_64-with-debian-bullseye-sid', 'event': 'loaded'}
+[2021-08-16 22:27:30,853][1494034297.py][line:48][INFO] Epoch:[0]	 mlogloss=0.88960	 auc=0.89741	 log_loss=1.74496	
+[2021-08-16 22:27:31,281][utils.py][line:482][INFO] loading Word2Vec object from ./embedding/w2v.model
+[2021-08-16 22:27:31,293][utils.py][line:516][INFO] loading wv recursively from ./embedding/w2v.model.wv.* with mmap=None
+[2021-08-16 22:27:31,293][utils.py][line:554][INFO] setting ignored attribute cum_table to None
+[2021-08-16 22:27:31,315][utils.py][line:448][INFO] Word2Vec lifecycle event {'fname': './embedding/w2v.model', 'datetime': '2021-08-16T22:27:31.315612', 'gensim': '4.0.1', 'python': '3.7.10 (default, Jun  4 2021, 14:48:32) \n[GCC 7.5.0]', 'platform': 'Linux-5.4.0-66-generic-x86_64-with-debian-bullseye-sid', 'event': 'loaded'}
+[2021-08-16 22:27:31,315][utils.py][line:482][INFO] loading Word2Vec object from ./embedding/fasttext.model
+[2021-08-16 22:27:31,317][utils.py][line:516][INFO] loading wv recursively from ./embedding/fasttext.model.wv.* with mmap=None
+[2021-08-16 22:27:31,317][utils.py][line:521][INFO] loading vectors_ngrams from ./embedding/fasttext.model.wv.vectors_ngrams.npy with mmap=None
+[2021-08-16 22:27:31,526][utils.py][line:554][INFO] setting ignored attribute vectors to None
+[2021-08-16 22:27:31,526][utils.py][line:554][INFO] setting ignored attribute buckets_word to None
+[2021-08-16 22:27:31,599][utils.py][line:554][INFO] setting ignored attribute cum_table to None
+[2021-08-16 22:27:31,620][utils.py][line:448][INFO] FastText lifecycle event {'fname': './embedding/fasttext.model', 'datetime': '2021-08-16T22:27:31.620402', 'gensim': '4.0.1', 'python': '3.7.10 (default, Jun  4 2021, 14:48:32) \n[GCC 7.5.0]', 'platform': 'Linux-5.4.0-66-generic-x86_64-with-debian-bullseye-sid', 'event': 'loaded'}
